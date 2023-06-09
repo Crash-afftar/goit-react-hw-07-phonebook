@@ -9,3 +9,4 @@ export const Container = styled.div`
   background-color: rgb(131, 166, 155);
   margin: 0 auto;
   `;
+
